@@ -1,0 +1,10 @@
+main: me.Aqua_rel.HypixelBedwars.Plugin
+name: HypixelBedwars
+version: 1.0
+api-version: 1.8
+author: Aqua_rel
+commands:
+   bwstart:
+      description: Starts Bedwars
+   bwreset:
+      description: Resets Bedwars
